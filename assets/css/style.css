@@ -1,0 +1,194 @@
+body{
+    margin-left: 50px;
+    margin-top: 19px;
+}
+
+header div{
+    display: inline-block;
+}
+
+header .address p{
+    color: gray;
+    font-size: smaller;
+}
+
+header .icons{
+    margin-left: 550px;
+}
+
+header .icons a img{
+    width: 25px;
+    margin-left: 20px;
+}
+
+header .search{
+    margin-left: 400px;
+}
+
+header .search a img{
+    width: 30px;
+}
+
+header .application {
+    height: 50px;
+    width: 200px;
+    background-color: rgb(249, 220, 0);
+    margin-left: 400px;
+}
+
+header .application a{
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+    font-weight: 600;
+    padding-left: 70px;
+}
+
+
+
+.carousel{
+    padding-right: 32px;
+}
+
+
+.departments{
+    padding-top: 90px;
+}
+
+.departments .departments-left{
+    margin-left: 500px;
+    width: 500px;
+    display: inline-block;
+}
+
+.departments .departments-left h3{
+    font-weight: 800;
+}
+
+.departments .departments-left p{
+    color: gray;
+}
+
+.departments .departments-right{
+    display: inline-block;
+}
+
+.departments .departments-right li{
+    display: inline-block;
+    width: 300px;
+    height: 90px;
+    transition: 0.5s;
+    text-align: center;
+    padding-top: 20px;
+    border: 2px solid gray;
+}
+
+.departments .departments-right li:hover:first-child{
+    background-color: rgb(169, 63, 169);
+    border: none;
+}
+
+.departments .departments-right li:hover:nth-child(2){
+    border: none;
+    background-color: rgb(235, 235, 6);
+}
+
+.departments .departments-right .down li:hover:nth-child(1){
+    border: none;
+    background-color: rgb(43, 185, 43);
+}
+
+.departments .departments-right .down li:hover:nth-child(2){
+    background-color: rgb(48, 48, 246);
+    border: none;
+
+}
+
+.departments .departments-right li a{
+    text-decoration: none;
+    color: black;
+}
+
+
+.why{
+    margin-left: 500px;
+    margin-top: 90px;
+}
+
+.why h2:last-child{
+    font-weight: 800;
+}
+
+.why p{
+    width: 800px;
+    color: gray;
+}
+
+.info{
+    margin-left: 500px;
+    margin-top: 90px;
+}
+
+.info .info-box{
+    display: inline-block;
+    margin-right: 300px;
+}
+
+.info .info-box .box{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    display: inline-block;
+}
+
+.info .info-box .about{
+    width: 250px;
+    display: inline-block;  
+}
+
+.info .info-box .about h4{
+    font-weight: 800;
+}
+
+.info .info-box .about p{
+    color: gray;
+}
+
+.info .info-box .about h5{
+    font-size: smaller;
+    font-weight: 800;
+}
+
+
+.description{
+    background-color: lightblue;
+    margin-top: 50px;
+    margin-left: -50px;
+    text-align: center;
+    font-size: smaller;
+    height: 200px;
+}
+
+.description h2{
+    width: 1900px;
+    padding-left: 300px;
+}
+
+.description .details h3{
+    display: inline-block;
+    padding-right: 70px;
+    margin-top: 30px;
+}
+
+.carousel2{
+    margin-top: 70px;
+}
+
+.carousel2 h2{
+    display: inline-block;
+}
+
+.carousel2 h2:last-child{
+    
+}
+
